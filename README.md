@@ -1,2 +1,2 @@
-# Frontend-developer
+# Code Alpha
 My personal portfolio
